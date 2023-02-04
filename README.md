@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Software Engineer!
+
 <!--
 **AIAM2601/AIAM2601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
