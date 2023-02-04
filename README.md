@@ -6,7 +6,7 @@ My name is Andrés Aguilar, I'm a Software Engineer!
 - 🌱 I’m currently learning **C++** & **Python**
 - 📫 How to reach me: **andres.aguilarfl@gmail.com**
 - ⚡ About me: I love engineering, physics & the mountains
-
+- 💬 Languages: English, Portuguese, Spanish & 3 more in the future
 
 
 <!--
