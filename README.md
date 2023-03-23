@@ -2,7 +2,12 @@
 
 My name is Andrés Aguilar, I'm a Software Engineer!
 
-- 🔭 I’m currently working on **Python | JAVA | MERN Stack | C/C++ **
+* 🔭Technologies that I use:
+    * Python Django
+    * Java JSP Spring boot
+    * JS HTML CSS Node.js React.js
+    * C/C++
+    * MySql Postgresql MongoDB
 - 📫 How to reach me: **andres.aguilarfl@gmail.com**
 - ⚡ About me: I love engineering, physics & the mountains
 - 💬 Languages: English, Portuguese, Spanish & 3 more in the future
