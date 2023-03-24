@@ -4,7 +4,6 @@ My name is Andrés Aguilar, I'm a Software Engineer!
 
 * 🔭Technologies that I use:
     * Python Django
-    * Java JSP Spring boot
     * JS HTML CSS Node.js React.js
     * C/C++
     * MySql Postgresql MongoDB
