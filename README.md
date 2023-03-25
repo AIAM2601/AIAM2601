@@ -6,8 +6,9 @@ My name is Andrés Aguilar, I'm a Software Engineer!
     * Python Django
     * C#
     * JS HTML CSS Node.js React.js
-    * C/C++
     * MySql Postgresql MongoDB
+    * C/C++
+
 - 📫 How to reach me: **andres.aguilarfl@gmail.com**
 - ⚡ About me: I love engineering, physics & the mountains
 - 💬 Languages: English, Portuguese, Spanish & 3 more in the future
