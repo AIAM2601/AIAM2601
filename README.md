@@ -4,9 +4,12 @@ My name is Andrés Aguilar, I'm a Software Engineer!
 
 * 🔭Technologies that I use:
     * Python Django
-    * C#
-    * C/C++
     * JS HTML CSS Node.js React.js
+    * C/C++
+    * C#
+    * PostgreSQL - MySQL - MongoDB
+
+
 
 - 📫 How to reach me: **andres.aguilarfl@gmail.com**
 - ⚡ About me: I love engineering, physics & the mountains
