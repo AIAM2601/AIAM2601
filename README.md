@@ -10,7 +10,7 @@ My name is Andrés Aguilar, I'm a Software Engineer!
     * PostgreSQL - MySQL - MongoDB
 
 
-
+- 😄 Portfolio: [AIAM2601.github.io/portfolio.com](https://aiam2601.github.io/portfolio/)
 - 📫 How to reach me: **andres.aguilarfl@gmail.com**
 - ⚡ About me: I love engineering, physics & the mountains
 - 💬 Languages: English, Portuguese, Spanish & 3 more in the future
