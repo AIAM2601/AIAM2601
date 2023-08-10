@@ -5,11 +5,8 @@ My name is Andrés Aguilar, I'm a Software Engineer!
 * 🔭Technologies that I use:
     * Python Django
     * JS HTML CSS Node.js React.js
-    * C#
-    * C/C++
-    * PostgreSQL - MySQL - MongoDB
-
-
+    * Java
+      
 - 😄 Portfolio: [AIAM2601.github.io/portfolio.com](https://aiam2601.github.io/portfolio/)
 - 📫 How to reach me: **andres.aguilarfl@gmail.com**
 - ⚡ About me: I love engineering, physics & the mountains
